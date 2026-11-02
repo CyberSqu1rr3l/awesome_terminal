@@ -1,4 +1,4 @@
-![Awesome Terminal]banner.png)
+![Awesome Terminal](banner.png)
 
 Description
 -----------------------------------------------------------------------------------------
