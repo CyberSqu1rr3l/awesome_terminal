@@ -16,10 +16,10 @@ Repository Structure
 - `./applications/` A collection of terminal-based applications and command-line tools
   that provide alternatives to graphical software or enhance everyday terminal workflows.
 
-- `./scripts/` Useful shell scripts for automating tasks and combining command-line
+- `./scripts/` Shell scripts for automating tasks and combining command-line
   utilities into reusable workflows.
 
-- `./tutorials/` Tutorials covering terminal tools, shell commands, and techniques for
+- `./tutorials/` Tutorials covering tools, commands, and techniques for
   working effectively from the command line.
 
 Disclaimer
