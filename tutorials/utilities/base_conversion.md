@@ -116,7 +116,7 @@ Convert each hexadecimal digit to four binary digits, regroup the result into se
 echo "obase=8; ibase=16; 960" | bc
 ```
 
-### Lookup Table
+## Lookup Table
 
 | Decimal (Base 10) | Binary (Base 2) | Octal (Base 8) | Hexadecimal (Base 16) |
 |------------------:|----------------:|---------------:|----------------------:|
