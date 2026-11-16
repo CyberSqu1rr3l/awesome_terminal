@@ -15,6 +15,7 @@ Repository Structure
 -----------------------------------------------------------------------------------------
 - `./applications/` A collection of terminal-based applications and command-line tools
   that provide alternatives to graphical software or enhance everyday terminal workflows.
+- `./ricing/` A collection of configurations and themes to personalize the terminal look.
 - `./scripts/` Shell scripts for task automation and simplifying command-line workflows.
 - `./tutorials/` Practical guides and examples for using terminal tools and commands.
   
